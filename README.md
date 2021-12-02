@@ -9,8 +9,8 @@
         <a href="mailto:ayushporwal3843@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Kakashi|Gmail" width="25px"></a>&nbsp;
     </p>
     <p align="center">
-      <a href="https://www.facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Kakashi|Facebook"></a>
-      <a href="https://www.instagram.in/"></a>
+     <a href="https://www.facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Kakashi|Facebook"></a>
+     <a href="https://www.instagram.in/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kakashi|Instagram"</a>
   </p>
 </nav>
 
