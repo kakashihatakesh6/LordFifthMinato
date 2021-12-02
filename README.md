@@ -13,12 +13,15 @@
 </nav>
 
 <!--------About Section--------->
+
+<!--------<h3>About Me 🙋‍♂️</h3>--------->
+
 ### About me :raising_hand_man:
-<h3>About Me 🙋‍♂️</h3>
 <p>I'm a undergraduate student at Manipur Institute of technology, Karnataka.I'm a web developer and competitive programmer, work on web projects.</p>
 <img src="https://i.gifer.com/5eKX.gif" alt="right image">
+
 <!---------- Skill Section --------------->
-<h3>Technical Skill</h3>
+### Technical Skill
 <ul>
   <li></li>
 
