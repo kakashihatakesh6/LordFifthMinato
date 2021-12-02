@@ -2,7 +2,7 @@
 <hr>
 <nav align="center">
   <p align="center">
-    <a>Linkdin</a>
+    <a href="http://www.linkdin.com/"><img alt="Likdin">Linkdin</a>
     <a>Twitter</a>
   </p>
 </nav>
