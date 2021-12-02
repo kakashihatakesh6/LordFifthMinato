@@ -14,7 +14,7 @@
 
 <!--------About Section--------->
 ### About me :raising_hand_man:
-<h4>About Me 🙋‍♂️</h4>
+<h3>About Me 🙋‍♂️</h3>
 <p>I'm a undergraduate student at Manipur Institute of technology, Karnataka.I'm a web developer and competitive programmer, work on web projects.</p>
 <img src="https://i.gifer.com/5eKX.gif" alt="right image">
 <!---------- Skill Section --------------->
