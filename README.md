@@ -13,6 +13,6 @@
 </nav>
 
 <!--------About Section--------->
-<h5>About Me 🙋‍♂️</h5>
+<h4>About Me 🙋‍♂️</h4>
 <p>I'm a undergraduate student at Manipur Institute of technology, Karnataka.I'm a web developer and competitive programmer, work on web projects.</p>
 
