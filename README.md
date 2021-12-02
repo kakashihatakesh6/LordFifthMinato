@@ -9,5 +9,5 @@ LordFifthMinato/LordFifthMinato is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <div background="pink">
- <h5 color="blue"> It me </h5>
+ <h1 color="blue"> It me </h1>
 </div>
