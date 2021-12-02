@@ -10,7 +10,7 @@
     </p>
     <p align="center">
      <a href="https://www.facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Kakashi|Facebook"></a>
-     <a href="https://www.instagram.in/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kakashi|Instagram"</a>
+     <a href="https://www.instagram.in/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kakashi|Instagram"></a>
   </p>
 </nav>
 
@@ -20,7 +20,7 @@
 
 ### About me :raising_hand_man:
 <p>I'm a undergraduate student at Manipur Institute of technology, Karnataka.I'm a web developer and competitive programmer, work on web projects.</p>
-<img src="https://i.gifer.com/5eKX.gif" alt="right image">
+<img align="right" src="https://github.com/porwalayush/porwalayush/blob/main/coding-freak.gif" width="30%"/>
 
 <!---------- Skill Section --------------->
 ### Technical Skills
@@ -29,7 +29,7 @@
        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </li>
   <li><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></li>
-  <li><img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"></li>
-  <li><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></li>
-  <li><img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"></li>
+  <li><img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff""></li>
+  <li><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></li>
+  <li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></li>
 </ul>
