@@ -1,3 +1,4 @@
+<!--------header--------->
 <h2 align="center">Hey You! It's me Kakashi👋</h2>
 <hr>
 <nav align="center">
@@ -10,3 +11,8 @@
     </p>
   </p>
 </nav>
+
+<!--------About Section--------->
+<h5>About Me 🙋‍♂️</h5>
+<p>I'm a undergraduate student at Manipur Institute of technology, Karnataka.I'm a web developer and competitive programmer, work on web projects.</p>
+
