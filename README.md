@@ -8,6 +8,6 @@
 LordFifthMinato/LordFifthMinato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div style="background: pink;">
+<div background="pink">
  <h5 style="color: red";> It me </h5>
 </div>
