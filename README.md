@@ -4,4 +4,5 @@
   <span>
     <a>Linkdin</a>
     <a>Twitter</a>
+  </span>
 </nav>
