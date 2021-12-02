@@ -21,7 +21,8 @@
 <img src="https://i.gifer.com/5eKX.gif" alt="right image">
 
 <!---------- Skill Section --------------->
-### Technical Skill
+### Technical Skills
 <ul>
   <li></li>
 
+</ul>
