@@ -23,6 +23,9 @@
 <!---------- Skill Section --------------->
 ### Technical Skills
 <ul>
-  <li></li>
-
+  <li><img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"></li>
+  <li><img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"></li>
+  <li><img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"></li>
+  <li><img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"></li>
+  <li><img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"></li>
 </ul>
