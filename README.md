@@ -8,7 +8,7 @@
         <a href="https://www.stopstalk.com/user/profile/itskakashi"><img src="https://github.com/stopstalk/media-resources/blob/master/stopstalk-large-black.svg" alt="Kakashi|Stopstalk" width="25px"></a>&nbsp;
         <a href="mailto:ayushporwal3843@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Kakashi|Gmail" width="25px"></a>&nbsp;
     </p>
-    <p>
+    <p align="center">
       <a href="https://www.facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Kakashi|Facebook"></a>
       <a href="https://www.instagram.in/"></a>
   </p>
