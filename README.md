@@ -20,7 +20,7 @@
 
 ### About me :raising_hand_man:
 <p>I'm a undergraduate student at Manipur Institute of technology, Karnataka.I'm a web developer and competitive programmer, work on web projects.</p>
-<img align="right" src="https://github.com/porwalayush/porwalayush/blob/main/coding-freak.gif" width="30%"/>
+<img align="right" src="https://github.com/KakshiHatakesh6/LordFifthMinato/blob/main/p-img_2.gif" width="30%"/>
 
 <!---------- Skill Section --------------->
 ### Technical Skills
